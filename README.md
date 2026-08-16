@@ -1,4 +1,4 @@
 Aluno: Diego Rodrigues Carvalho, Matrícula: 2612687
 Aluno: José Guilherme, Matrícula:
 
-[https://seu-usuario.github.io/jogo-da-velha-unifor/]
+[https://Petroievysk.github.io/jogo-da-velha-unifor/]
