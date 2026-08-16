@@ -1,3 +1,4 @@
-Diego Rodrigues Carvalho = 2612687
+Aluno: Diego Rodrigues Carvalho, Matrícula: 2612687
+Aluno: José Guilherme, Matrícula:
 
-https://petroievysk.github.io/jogo-da-velha-unifor/
+[https://seu-usuario.github.io/jogo-da-velha-unifor/]
